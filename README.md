@@ -14,6 +14,6 @@ A live demo of the completed project can be found at http://tolu-game-of-life.su
 git clone https://github.com/toluagboola/game-of-life-starter-files.git
 ```
 
-- `cd` into the created directory and run `nom install`.
+- `cd` into the created directory and run `npm install`.
 - Run `npm start` to open up your project in [http://localhost:3000](http://localhost:3000).
 - Open up the project in your text editor and follow along with the tutorial.
